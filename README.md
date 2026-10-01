@@ -1,5 +1,7 @@
 # AI Career Advice from Experts
 
+[How to Build a Career in AI, Part 1 Three Steps to Career Growth](https://www.deeplearning.ai/the-batch/how-to-build-a-career-in-ai-part-1-three-steps-to-career-growth)
+
 
  ### Why and how to start a Machine Learning career | Andrew Ng 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uLL6RZhoj3o/0.jpg)](https://youtu.be/uLL6RZhoj3o)
