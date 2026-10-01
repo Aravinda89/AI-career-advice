@@ -15,6 +15,9 @@
 [How to Build a Career in AI, Part 7 Optimizing Your Job Search](https://www.deeplearning.ai/the-batch/build-career-part-6)
 
 
+(Career Advice in AI)[https://www.youtube.com/watch?v=AuZoDsNmG_s]
+
+
  ### Why and how to start a Machine Learning career | Andrew Ng 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uLL6RZhoj3o/0.jpg)](https://youtu.be/uLL6RZhoj3o)
 
