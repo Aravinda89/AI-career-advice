@@ -17,6 +17,7 @@
 
 
 [Career Advice in AI](https://www.youtube.com/watch?v=AuZoDsNmG_s)
+[8 Keys to Building a Career in AI](https://www.deeplearning.ai/the-batch/8-keys-to-building-a-career-in-ai)
 
 
 
