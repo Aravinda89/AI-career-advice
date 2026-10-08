@@ -16,9 +16,7 @@
 [How to Build a Career in AI, Part 6 Job Search Fundamentals](https://www.deeplearning.ai/the-batch/how-to-build-a-career-in-ai-part-5-job-search-fundamentals)\
 [How to Build a Career in AI, Part 7 Optimizing Your Job Search](https://www.deeplearning.ai/the-batch/build-career-part-6)
 
-[Career Advice in AI](https://www.youtube.com/watch?v=AuZoDsNmG_s]
-
-[8 Keys to Building a Career in AI](https://www.deeplearning.ai/the-batch/8-keys-to-building-a-career-in-ai)
+[8 Keys to Building a Career in AI](https://www.deeplearning.ai/the-batch/8-keys-to-building-a-career-in-ai)\
 [Building Your AI Career](https://www.deeplearning.ai/the-batch/building-your-ai-career-a-report-by-workera)
 
 
