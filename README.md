@@ -24,7 +24,7 @@
 [How to Learn Coding](https://www.deeplearning.ai/the-batch/how-to-learn-coding)
 
  ### Why and how to start a Machine Learning career | Andrew Ng 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uLL6RZhoj3o/0.jpg)](https://youtu.be/uLL6RZhoj3o)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uLL6RZhoj3o/0.jpg)](https://youtu.be/uLL6RZhoj3o)\
 
  ### Andrew Ng: Advice on Getting Started in Deep Learning 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1k37OcjH7BM/0.jpg)](https://youtu.be/1k37OcjH7BM)
