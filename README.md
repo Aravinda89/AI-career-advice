@@ -31,7 +31,7 @@
 [How to Reduce Risk and Uncertainty in AI Projects](https://www.deeplearning.ai/the-batch/how-to-reduce-risk-and-uncertainty-in-ai-projects)\
 [How to Build AI Products and Businesses Two Strategies](https://www.deeplearning.ai/the-batch/how-to-build-ai-products-and-businesses-two-strategies)\
 [Iteration in AI Development](https://www.deeplearning.ai/the-batch/iteration-in-ai-development)\
-[Five Steps to Scoping AI Projects](https://www.deeplearning.ai/the-batch/five-steps-to-scoping-ai-projects)\
+[Five Steps to Scoping AI Projects](https://www.deeplearning.ai/the-batch/five-steps-to-scoping-ai-projects)
 
 [Developing AI Products Part 1 How AI Product Development is Different From Traditional Software](https://www.deeplearning.ai/the-batch/how-developing-ai-products-is-different-from-traditional-software)
 [Developing AI Products Part 2 How To Assess Technical Feasibility](https://www.deeplearning.ai/the-batch/developing-ai-products-part-2-how-to-assess-technical-feasibility)
