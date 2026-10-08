@@ -26,6 +26,20 @@
 [A Solid Foundation for a Rewarding Career](https://www.deeplearning.ai/the-batch/a-solid-foundation-for-a-rewarding-career)\
 [How to Learn Coding](https://www.deeplearning.ai/the-batch/how-to-learn-coding)
 
+## AI Projects
+[Three Key Loops for Building Great Software](https://www.deeplearning.ai/the-batch/three-key-loops-for-building-great-software)\
+[How to Reduce Risk and Uncertainty in AI Projects](https://www.deeplearning.ai/the-batch/how-to-reduce-risk-and-uncertainty-in-ai-projects)\
+[How to Build AI Products and Businesses Two Strategies](https://www.deeplearning.ai/the-batch/how-to-build-ai-products-and-businesses-two-strategies)\
+[Iteration in AI Development](https://www.deeplearning.ai/the-batch/iteration-in-ai-development)\
+[Five Steps to Scoping AI Projects](https://www.deeplearning.ai/the-batch/five-steps-to-scoping-ai-projects)\
+
+[Developing AI Products Part 1 How AI Product Development is Different From Traditional Software](https://www.deeplearning.ai/the-batch/how-developing-ai-products-is-different-from-traditional-software)
+[Developing AI Products Part 2 How To Assess Technical Feasibility](https://www.deeplearning.ai/the-batch/developing-ai-products-part-2-how-to-assess-technical-feasibility)
+[Developing AI Products Part 3 Coping With Product Specification](https://www.deeplearning.ai/the-batch/developing-ai-products-part-3-coping-with-product-specification)
+[Developing AI Products Part 4 Getting Data To Start Development](https://www.deeplearning.ai/the-batch/developing-ai-products-part-4-getting-data-to-start-development)
+[Developing AI Products Part 5 Data Drift, Concept Drift, and Other Maintenance Issues](https://www.deeplearning.ai/the-batch/developing-ai-products-part-5-data-drift-concept-drift-and-other-maintenance-issues)
+
+
  ### Why and how to start a Machine Learning career | Andrew Ng 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uLL6RZhoj3o/0.jpg)](https://youtu.be/uLL6RZhoj3o)\
 
