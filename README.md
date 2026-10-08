@@ -1,5 +1,7 @@
 # AI Career Advice from Experts
 
+[Career Advice in AI](https://www.youtube.com/watch?v=AuZoDsNmG_s]
+
 ## AI Engineering
 [The AI Engineering Skills Map Part 1](https://www.deeplearning.ai/the-batch/the-ai-engineering-skills-map)\
 [The AI Engineering Skills Map Part 2 — AI Applications](https://www.deeplearning.ai/the-batch/he-ai-engineering-skills-map-in-detail-building-and-deploying-ai-applications)\
