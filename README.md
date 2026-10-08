@@ -18,8 +18,8 @@
 
 [Career Advice in AI](https://www.youtube.com/watch?v=AuZoDsNmG_s]
 
-(8 Keys to Building a Career in AI](https://www.deeplearning.ai/the-batch/8-keys-to-building-a-career-in-ai)\
-[Building Your AI Career](https://www.youtube.com/watch?v=AuZoDsNmG_s](https://www.deeplearning.ai/the-batch/building-your-ai-career-a-report-by-workera)
+[8 Keys to Building a Career in AI](https://www.deeplearning.ai/the-batch/8-keys-to-building-a-career-in-ai)
+[Building Your AI Career](https://www.deeplearning.ai/the-batch/building-your-ai-career-a-report-by-workera)
 
 
  ### Why and how to start a Machine Learning career | Andrew Ng 
