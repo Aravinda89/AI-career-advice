@@ -5,7 +5,7 @@
 [The AI Engineering Skills Map Part 2 — AI Applications](https://www.deeplearning.ai/the-batch/he-ai-engineering-skills-map-in-detail-building-and-deploying-ai-applications)\
 [The AI Engineering Skills Map Part 3 — Fundamentals](https://www.deeplearning.ai/the-batch/the-ai-engineering-skills-map-in-detail-software-engineering-fundamentals)\
 [The AI Engineering Skills Map Part 4 — Coding Agents](https://www.deeplearning.ai/the-batch/the-ai-engineering-skills-map-in-detail-using-coding-agents)\
-[The AI Engineering Skills Map Part 5 — Shaping the Build](https://www.deeplearning.ai/the-batch/the-ai-engineering-skills-map-in-detail-shaping-the-build)\
+[The AI Engineering Skills Map Part 5 — Shaping the Build](https://www.deeplearning.ai/the-batch/the-ai-engineering-skills-map-in-detail-shaping-the-build)
 
 
 [How to Build a Career in AI, Part 1 Three Steps to Career Growth](https://www.deeplearning.ai/the-batch/how-to-build-a-career-in-ai-part-1-three-steps-to-career-growth)
