@@ -1,8 +1,6 @@
 # AI Career Advice from Experts
 
 [Career Advice in AI](https://www.youtube.com/watch?v=AuZoDsNmG_s)
-[![Career Advice in AI](https://img.youtube.com/vi/AuZoDsNmG_s/maxresdefault.jpg)](https://www.youtube.com/watch?v=AuZoDsNmG_s)
-
 <a href="https://www.youtube.com/watch?v=AuZoDsNmG_s">
   <img src="https://img.youtube.com/vi/AuZoDsNmG_s/maxresdefault.jpg" width="320" alt="Career Advice in AI">
 </a>
