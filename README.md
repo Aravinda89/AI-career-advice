@@ -7,19 +7,13 @@
 [The AI Engineering Skills Map Part 4 — Coding Agents](https://www.deeplearning.ai/the-batch/the-ai-engineering-skills-map-in-detail-using-coding-agents)\
 [The AI Engineering Skills Map Part 5 — Shaping the Build](https://www.deeplearning.ai/the-batch/the-ai-engineering-skills-map-in-detail-shaping-the-build)
 
-
-[How to Build a Career in AI, Part 1 Three Steps to Career Growth](https://www.deeplearning.ai/the-batch/how-to-build-a-career-in-ai-part-1-three-steps-to-career-growth)
-
-[How to Build a Career in AI, Part 2 Learning Technical Skills](https://www.deeplearning.ai/the-batch/how-to-build-a-career-in-ai-part-2-learning-technical-skills)
-
-[How to Build a Career in AI, Part 3 Choosing Projects](https://www.deeplearning.ai/the-batch/how-to-build-a-career-in-ai-part-3-choosing-projects)
-
-[How to Build a Career in AI, Part 4 How to Sequence Projects to Build a Career](https://www.deeplearning.ai/the-batch/how-to-build-a-career-in-ai-part-4-progress-through)
-
-[How to Build a Career in AI, Part 5 Finding Your First AI Job](https://www.deeplearning.ai/the-batch/build-career-part-5)
-
-[How to Build a Career in AI, Part 6 Job Search Fundamentals](https://www.deeplearning.ai/the-batch/how-to-build-a-career-in-ai-part-5-job-search-fundamentals)
-
+## How to Build a Career in AI
+[How to Build a Career in AI, Part 1 Three Steps to Career Growth](https://www.deeplearning.ai/the-batch/how-to-build-a-career-in-ai-part-1-three-steps-to-career-growth)\
+[How to Build a Career in AI, Part 2 Learning Technical Skills](https://www.deeplearning.ai/the-batch/how-to-build-a-career-in-ai-part-2-learning-technical-skills)\
+[How to Build a Career in AI, Part 3 Choosing Projects](https://www.deeplearning.ai/the-batch/how-to-build-a-career-in-ai-part-3-choosing-projects)\
+[How to Build a Career in AI, Part 4 How to Sequence Projects to Build a Career](https://www.deeplearning.ai/the-batch/how-to-build-a-career-in-ai-part-4-progress-through)\
+[How to Build a Career in AI, Part 5 Finding Your First AI Job](https://www.deeplearning.ai/the-batch/build-career-part-5)\
+[How to Build a Career in AI, Part 6 Job Search Fundamentals](https://www.deeplearning.ai/the-batch/how-to-build-a-career-in-ai-part-5-job-search-fundamentals)\
 [How to Build a Career in AI, Part 7 Optimizing Your Job Search](https://www.deeplearning.ai/the-batch/build-career-part-6)
 
 
