@@ -20,7 +20,7 @@
 
 [8 Keys to Building a Career in AI](https://www.deeplearning.ai/the-batch/8-keys-to-building-a-career-in-ai)\
 [Building Your AI Career](https://www.deeplearning.ai/the-batch/building-your-ai-career-a-report-by-workera)\
-[A Solid Foundation for a Rewarding Career](https://www.deeplearning.ai/the-batch/a-solid-foundation-for-a-rewarding-career)
+[A Solid Foundation for a Rewarding Career](https://www.deeplearning.ai/the-batch/a-solid-foundation-for-a-rewarding-career)\
 [How to Learn Coding](https://www.deeplearning.ai/the-batch/how-to-learn-coding)
 
  ### Why and how to start a Machine Learning career | Andrew Ng 
