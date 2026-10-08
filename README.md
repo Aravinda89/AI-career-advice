@@ -1,5 +1,9 @@
 # AI Career Advice from Experts
 
+## AI Engineering
+(The AI Engineering Skills Map Part 1)[https://www.deeplearning.ai/the-batch/the-ai-engineering-skills-map]
+
+
 [How to Build a Career in AI, Part 1 Three Steps to Career Growth](https://www.deeplearning.ai/the-batch/how-to-build-a-career-in-ai-part-1-three-steps-to-career-growth)
 
 [How to Build a Career in AI, Part 2 Learning Technical Skills](https://www.deeplearning.ai/the-batch/how-to-build-a-career-in-ai-part-2-learning-technical-skills)
