@@ -3,6 +3,10 @@
 [Career Advice in AI](https://www.youtube.com/watch?v=AuZoDsNmG_s)
 [![Career Advice in AI](https://img.youtube.com/vi/AuZoDsNmG_s/maxresdefault.jpg)](https://www.youtube.com/watch?v=AuZoDsNmG_s)
 
+<a href="https://www.youtube.com/watch?v=AuZoDsNmG_s">
+  <img src="https://img.youtube.com/vi/AuZoDsNmG_s/maxresdefault.jpg" width="320" alt="Career Advice in AI">
+</a>
+
 ## AI Engineering
 [The AI Engineering Skills Map Part 1](https://www.deeplearning.ai/the-batch/the-ai-engineering-skills-map)\
 [The AI Engineering Skills Map Part 2 — AI Applications](https://www.deeplearning.ai/the-batch/he-ai-engineering-skills-map-in-detail-building-and-deploying-ai-applications)\
