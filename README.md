@@ -1,7 +1,7 @@
 # AI Career Advice from Experts
 
 ## AI Engineering
-[The AI Engineering Skills Map Part 1](https://www.deeplearning.ai/the-batch/the-ai-engineering-skills-map)
+[The AI Engineering Skills Map Part 1](https://www.deeplearning.ai/the-batch/the-ai-engineering-skills-map)\
 [The AI Engineering Skills Map Part 2 — AI Applications](https://www.deeplearning.ai/the-batch/he-ai-engineering-skills-map-in-detail-building-and-deploying-ai-applications)
 [The AI Engineering Skills Map Part 3 — Fundamentals](https://www.deeplearning.ai/the-batch/the-ai-engineering-skills-map-in-detail-software-engineering-fundamentals)
 [The AI Engineering Skills Map Part 4 — Coding Agents](https://www.deeplearning.ai/the-batch/the-ai-engineering-skills-map-in-detail-using-coding-agents)
